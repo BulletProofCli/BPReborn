@@ -47,7 +47,7 @@ More information [Bullet Support GP](https://telegram.me/joinchat/AAAAAElr-OCSQY
 [@Vysheng](https://github.com/vysheng)
 [@BeyondTeam](https://telegram.me/BeyondTeam)
 
-# MAnager:
+# Manager:
 [@MrMahdi313](https://telegram.me/MrMahdi313)
 
 # Our Channel:
