@@ -1,3 +1,4 @@
+
 # [BulletProof](https://telegram.me/BulletProofCH)
 
 **An advanced and powerful administration bot based : (BDReborn on NEW TG-CLI)
@@ -44,3 +45,10 @@ More information [Bullet Support GP](https://telegram.me/joinchat/AAAAAElr-OCSQY
 
 # Special thanks to
 [@Vysheng](https://github.com/vysheng)
+[@BeyondTeam](https://telegram.me/BeyondTeam)
+
+# MAnager:
+[@MrMahdi313](https://telegram.me/MrMahdi313)
+
+# Our Channel:
+[@BulletProofCH](https://telegram.me/BulletProofCH)
