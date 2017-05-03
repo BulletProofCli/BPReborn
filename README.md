@@ -8,8 +8,8 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/BulletProofCli/BulletProofCli.git
-cd BulletProofCli
+git clone https://github.com/BulletProofCli/BPReborn.git
+cd BPReborn
 chmod +x bullet.sh
 ./bullet.sh install
 ./bullet.sh
@@ -24,7 +24,7 @@ screen ./autobp.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/BulletProofCli/BulletProofCli.git && cd BulletProofCli && chmod +x bullet.sh && ./bullet.sh install && chmod 777 autobp.sh && screen ./autobp.sh
+cd $HOME && git clone https://github.com/BulletProofCli/BPReborn.git && cd BPReborn && chmod +x bullet.sh && ./bullet.sh install && chmod 777 autobp.sh && screen ./autobp.sh
 ```
 * * *
 ### Sudo
