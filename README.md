@@ -41,7 +41,7 @@ sudo_users = {
 ```
 
 # Support and Development
-More information [Bullet Support GP](https://telegram.me/joinchat/AAAAAElr-OCSQY7us4-h5g)
+More information [Bullet Support GP](https://telegram.me/joinchat/AAAAAEIr-OCe04YR3Lu1kw)
 
 # Special thanks to
 [@Vysheng](https://github.com/vysheng)
