@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/BulletProofCli
+cd $HOME/BPReborn
 
 install() {
 	    cd libs
